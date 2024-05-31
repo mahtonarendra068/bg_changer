@@ -1,0 +1,10 @@
+#wow{
+  background:linear-gradient(to right , blue , indigo , orange, red);
+  width: 112px ;
+  height: 32px;
+  border-radius:  6px;
+}
+
+:root{
+  --wowcolor : linear-gradient(to right , blue , indigo , orange, red);
+}
